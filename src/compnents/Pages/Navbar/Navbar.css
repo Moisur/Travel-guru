@@ -1,0 +1,10 @@
+.input-style{
+    border: 1px solid rgba(237, 237, 237, 0.786);
+    border-radius: 10px;
+    outline: none;
+    background-color: transparent;
+}
+.button-style{
+   background-color: #fcb100;
+}
+

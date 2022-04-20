@@ -1,0 +1,9 @@
+.login-from {
+    border: 2px solid rgb(230, 230, 230);
+    border-radius: 10px;
+}
+
+.input-value {
+    border-bottom: 2px solid #eee;
+    outline: none;
+}
